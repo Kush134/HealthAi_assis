@@ -21,7 +21,7 @@ export default function About() {
           <div className="bg-gradient-to-r from-blue-50 to-indigo-50 rounded-lg p-6">
             <div className="flex flex-col sm:flex-row items-start sm:items-center gap-4">
               <img
-                src="https://imgur.com/jpAvWom"
+                src="https://imgur.com/gallery/developer-vOHVSW0"
                 alt="Kush Bhargav"
                 className="w-24 h-24 rounded-full object-cover border-4 border-white shadow-lg"
               />
