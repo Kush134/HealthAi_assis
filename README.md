@@ -98,9 +98,9 @@ npm run dev
 
 ## Contact 📧
 
-Kush BHargav Sah- [@Kushbhargav](https://github.com/Kush134)
+Kush Bhargav Sah- [@Kushbhargav](https://github.com/Kush134)
 
-Project Link: [](t)
+Project Link: [https://health-ai-assis.vercel.app/](https://health-ai-assis.vercel.app/)
 
 
 ## Acknowledgments 🙏
