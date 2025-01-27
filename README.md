@@ -33,7 +33,7 @@ An AI-powered healthcare assistant that provides medical information, symptom an
 
 ## Live Demo 🌐
 
-Visit the live application: [HealthAI Assistant](https://health-ai-assistant.vercel.app/)
+Visit the live application: [HealthAI Assistant](https://health-ai-assis.vercel.app/)
 
 ## Getting Started 🚀
 
